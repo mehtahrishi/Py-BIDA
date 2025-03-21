@@ -1,5 +1,6 @@
 # 1. Navigate to your project directory
 cd C:\path\to\your\project
+pip install virtualenv
 
 # 2. Create a virtual environment
 python -m venv venv
